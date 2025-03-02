@@ -53,7 +53,7 @@ Authentication is required for creating and managing urls to ensure the security
   [
     {
       "short_url": "https://swiftbit.onrender.com/df200df7",
-      "url": "https://leetcode.com/MacWeTT/"
+      "url": "https://leetcode.com/Aman/"
     },
     {
       "short_url": "https://swiftbit.onrender.com/175a872c",
@@ -123,7 +123,7 @@ source myenv/bin/activate
 Your console should look like this:
 
 ```bash
-(env) macwett@MacWeTT-PC:~/SwiftBit$
+(env) Aman@aman-PC:~/SwiftBit$
 ```
 
 If it doesn't, make sure you have installed and activated the virtual environment correctly.
